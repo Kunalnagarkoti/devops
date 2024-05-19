@@ -1,12 +1,6 @@
 # devops
 To create an Infrastructure as Code (IaC) setup using Terraform for deploying a "Hello World" Node.js app on AWS ECS/Fargate, along with a Continuous Deployment (CD) pipeline using GitHub Actions, follow these steps:
 
-### Prerequisites
-1. AWS Account
-2. AWS CLI configured
-3. GitHub Account
-4. Terraform installed
-5. Docker installed
 
 ### Step 1: Setup the Node.js Application
 1. Create a simple Node.js app:
